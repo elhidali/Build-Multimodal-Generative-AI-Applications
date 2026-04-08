@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+*Avecto.Zone.Identifier
+*PG$Secure
+*Zone.Identifier
