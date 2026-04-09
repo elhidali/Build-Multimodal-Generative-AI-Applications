@@ -40,7 +40,7 @@ class LlamaVisionService:
         Generate a response from the model based on an image and prompt.
         
         Args:
-            encoded_image (str): Base64-encoded image string
+            encoded_image (str): Base64-encoded image stringuv
             prompt (str): Text prompt to guide the model's response
             
         Returns:
